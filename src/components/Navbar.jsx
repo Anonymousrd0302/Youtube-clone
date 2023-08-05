@@ -9,7 +9,6 @@ const Navbar = () => (
   top: "0px", justifyContent: 'space-between' }}>
     <Link to="/" style={{display:'flex',alignItems:'center'}}>
       <img src={logo} alt="logo" height={45}/>
-      {/* Confollvmp[] */}
     </Link>
     <SearchBar />
   </Stack>
